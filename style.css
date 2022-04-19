@@ -1,0 +1,17 @@
+body{
+    background-color:whitesmoke;
+}
+.container{
+    margin-top: 2rem !important; 
+    width: 30%;
+}
+#btn{
+    margin-top: 10px;
+}
+#h4{
+    margin-top: 5px;
+}
+#error{
+    margin-top: 6px;
+    color: tomato;
+}
